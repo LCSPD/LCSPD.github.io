@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center{
+    display:flex;
+    flex-wrap: wrap;
+    max-width: 700px;
+    margin: 0 auto;
+    padding:0 2%;
+}
+header{
+    padding: 20px 0;
+}
+.logo{
+    width: 50%;
+}
+.social-midia{
+    position:absolute;
+    right: 90px;
+    top: 90px;
+}
+.social-midia{
+    display: block;
+    width: 99px;
+    margin: 10px;
+}
